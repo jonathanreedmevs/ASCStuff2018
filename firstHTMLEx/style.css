@@ -1,0 +1,29 @@
+body{
+    text-align: center;    
+}
+
+#title{
+    color:green;
+}
+h1{
+    color:red;
+}
+div {
+    background-color: rgb(90, 174, 184);
+    border: solid 3px green;
+    text-align: left;
+    width: 50%;
+    margin: auto;
+}
+
+span{
+    /* john cena all caps */
+    color: blue;
+    text-transform: uppercase;
+    font-size : 25px;
+    /* john cena in blue*/
+}
+
+a{
+    color: red;
+}
